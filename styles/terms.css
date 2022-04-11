@@ -1,0 +1,33 @@
+body {
+    background-color: #E5E5E5;
+}
+.terms-title {
+    background-image: url(../assets/terms-back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3% 0;
+}
+.terms-title h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.terms-title p {
+    text-align: center;
+}
+p {
+    padding: 10px 0;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+.terms-condition {
+    margin: 10px 10%;
+    background-color: white;
+    padding: 5%;
+}
+
+.terms-condition h3, .terms-condition h4 {
+    padding: 10px 0;
+}
